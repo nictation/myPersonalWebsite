@@ -1,0 +1,26 @@
+[
+    {
+        "index": 1,
+        "url": "https://picture-99f.pages.dev/img/p1.jpg",
+        "label": "难过从来就不能解决任何问题",
+        "color": "#6b4c75"
+    },
+    {
+        "index": 2,
+        "url": "https://picture-99f.pages.dev/img/p2.jpg",
+        "label": "要是追不上光，那就变成光吧 ",
+        "color": "#e1917f"
+    },
+    {
+        "index": 3,
+        "url": "https://picture-99f.pages.dev/img/p3.png",
+        "label": "慢慢来，谁还没有一个努力的过程",
+        "color": "#e7c084"
+    },
+    {
+        "index": 4,
+        "url": "https://picture-99f.pages.dev/img/p4.jpg",
+        "label": "所谓宿命，其实都是最好的安排",
+        "color": "#7ab7e3"
+    }
+]
